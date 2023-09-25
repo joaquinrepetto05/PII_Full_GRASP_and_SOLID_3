@@ -2,5 +2,5 @@ using Full_GRASP_And_SOLID.Library;
 
 public interface IPrinter
 {
-    void PrintTicket (Recipe recipe);
+    void PrintRecipe (Recipe recipe);
 }
